@@ -1,0 +1,1 @@
+"#This is a basic outline of building CRUD functions using Django-Ninja. You may need to add more features like authentication, permissions, validation, and error handling depending on your specific requirements" 
